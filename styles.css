@@ -1,0 +1,70 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    background-color: red;
+
+}
+
+.title {
+    font-size: 40px;
+    background-color: black;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.Image {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.Part-Two-Yes {
+    font-family: 'Coiny', cursive;
+}
+
+
+.Part-Two-No {
+    font-family: 'Coiny', cursive;
+}
+
+.Story-Ending-Yes {
+    font-family: 'Coiny', cursive;
+}
+
+.Story-Ending-No {
+    font-family: 'Coiny', cursive;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+.sponge-bob {
+    height: 400px;
+}
+
+
+img {
+    height: 400px;
+}
